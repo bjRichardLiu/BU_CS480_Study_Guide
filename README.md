@@ -7,7 +7,7 @@ Different chapters are in different folders, and each chapter has one or more Ma
 
 ## Table of Contents
 - Linear Algebra (TODO)
-- Rasterization (TODO)
+- Rasterization (In Progress)
 - Polygons (TODO)
 - Transformations (TODO)
 - Viewing Pipelines (TODO)
