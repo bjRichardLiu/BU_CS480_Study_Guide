@@ -9,7 +9,7 @@ Different chapters are in their corresponding folders, and each chapter has one 
 - Linear Algebra (TODO)
 - Rasterization (In Progress)
 - Polygons (TODO)
-- Transformations (TODO)
+- Transformations (In Progress)
 - Viewing Pipelines (TODO)
 - Clipping (TODO) 
 
