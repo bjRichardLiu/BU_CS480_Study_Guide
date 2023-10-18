@@ -11,6 +11,7 @@ Different chapters are in different folders, and each chapter has one or more Ma
 - Polygons (TODO)
 - Transformations (TODO)
 - Viewing Pipelines (TODO)
+- Clipping (TODO) 
 
 ## How to Contribute
 Feel free to contribute on anything!<br>
