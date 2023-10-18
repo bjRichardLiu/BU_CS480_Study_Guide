@@ -3,7 +3,7 @@ An Unofficial Study Guide for Boston University CS 480 Introduction to Computer 
 
 ## How to Use
 This study guide is written in Markdown, you can view them directly on GitHub.<br>
-Different chapters are in different folders, and each chapter has one or more Markdown file(s).<br>
+Different chapters are in their corresponding folders, and each chapter has one or more Markdown file(s).<br>
 
 ## Table of Contents
 - Linear Algebra (TODO)
