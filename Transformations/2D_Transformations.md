@@ -68,10 +68,9 @@ $$\begin{bmatrix}
 \end{bmatrix}$$
 Note that if $\alpha$/$\beta$ is positive, then the shearing is to the right/up, otherwise to the left/down.<br>
 
-## Chaining Transformations
-TODO
-
 ## Rotation about an arbitrary point
 TODO
 $$M = T_{out}R_{out}SR_{in}T_{in}$$
 
+## Homogenous Coordinates
+TODO
