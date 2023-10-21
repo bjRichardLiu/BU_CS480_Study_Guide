@@ -10,8 +10,8 @@ Different chapters are in their corresponding folders, and each chapter has one 
 - Rasterization (TODO: Texture Mapping)
 - Polygons
 - Transformations (TODO: Quaternions)
-- Viewing Pipelines (TODO: Parallel & Perspective Projection)
-- Clipping (TODO) 
+- Viewing Pipelines (TODO: Perspective Projection)
+- Clipping (In progress)
 
 ## How to Contribute
 Feel free to contribute on anything!<br>
