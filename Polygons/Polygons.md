@@ -40,5 +40,13 @@ For CCW polygon
 - The line coincides with an edge of the polygon
 **Basics Solution: Choose another outside point**
 ### Winding Number
-
-
+- Number of times polygon wind around the point p, if $w = 0$, then p is outside
+- compute signed cross product $\vec{pq} \times \vec{E}$<br>
+- E crosses right to left -> +1({pq} \times \vec{E}$ has positive z component)<br>
+- E crosses left to right -> -1({pq} \times \vec{E}$ has negative z component)<br>
+#### Tricky cases
+- $\vec{pq}$ collapse with an edge of the polygon (solution: ignore $E_i$ parallel with $\vec{pq}$)
+- $\vec{pq}$ collapse with a vertex of the polygon (solution: choose another q)
+## Odd-Even Parity vs Winding Number
+- For holes, odd-even parity rule will treat as outside, but winding number will treat as polygon overlap with itself (e.g., polygon winding number is 1, but the hole is 2)
+- For non-simple polygons, winding number can give more information (e.g., some region of the polygon has negative winding number, but some part is positive, hence the polygon is CCW in some region and CW in some region)
