@@ -7,9 +7,9 @@ Different chapters are in their corresponding folders, and each chapter has one 
 
 ## Table of Contents
 - Linear Algebra (TODO)
-- Rasterization (In Progress)
-- Polygons (In Progress)
-- Transformations (In Progress)
+- Rasterization (TODO: Texture Mapping)
+- Polygons
+- Transformations (TODO: Quaternions)
 - Viewing Pipelines (TODO)
 - Clipping (TODO) 
 
