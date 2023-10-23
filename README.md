@@ -10,7 +10,7 @@ Different chapters are in their corresponding folders, and each chapter has one 
 - Rasterization
 - Polygons
 - Transformations
-- Viewing Pipelines (TODO: Perspective Projection)
+- Viewing Pipelines
 - Clipping
 
 ## How to Contribute

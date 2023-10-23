@@ -1,5 +1,6 @@
 # Quaternions
 Rotate about an arbitrary axis in 3D space.<br>
+[A good video about quaternions in games](https://www.youtube.com/watch?v=aMqeG_0aFd0)
 ## 3D Rotation Using Quaternions
 $$q = (cos(\frac{\theta}{2}), u \ cdot sin (\frac{\theta}{2}))$$
 where:<br>
