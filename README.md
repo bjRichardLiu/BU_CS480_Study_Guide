@@ -12,6 +12,13 @@ Different chapters are in their corresponding folders, and each chapter has one 
 - Transformations
 - Viewing Pipelines
 - Clipping
+- Collision Detection (TODO)
+- Potential Functions (TODO)
+- 3D Geometry (TODO)
+- Splines (TODO)
+- Visible Surfaces (TODO)
+- Illumination Models (TODO)
+- Raytracing (TODO)
 
 ## How to Contribute
 Feel free to contribute on anything!<br>
