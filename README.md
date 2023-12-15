@@ -14,7 +14,7 @@ Different chapters are in their corresponding folders, and each chapter has one 
 - Clipping
 - Collision Detection (TODO)
 - Potential Functions (TODO)
-- 3D Geometry (In Progress)
+- 3D Geometry
 - Splines (TODO)
 - Visible Surfaces (TODO)
 - Illumination Models (TODO)
