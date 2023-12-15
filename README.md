@@ -16,8 +16,8 @@ Different chapters are in their corresponding folders, and each chapter has one 
 - Potential Functions (TODO)
 - 3D Geometry
 - Splines
-- Visible Surfaces (In Progress)
-- Illumination Models (TODO)
+- Visible Surfaces
+- Illumination Models (In Progress)
 - Raytracing (TODO)
 
 ## How to Contribute
