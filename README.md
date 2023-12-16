@@ -12,7 +12,7 @@ Different chapters are in their corresponding folders, and each chapter has one 
 - Transformations
 - Viewing Pipelines
 - Clipping
-- Collision Detection (TODO)
+- Collision Detection (In Progress)
 - Potential Functions (TODO)
 - 3D Geometry
 - Splines
