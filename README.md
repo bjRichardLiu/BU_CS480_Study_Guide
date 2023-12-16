@@ -13,12 +13,12 @@ Different chapters are in their corresponding folders, and each chapter has one 
 - Viewing Pipelines
 - Clipping
 - Collision Detection
-- Potential Functions (In Progress)
+- Potential Functions
 - 3D Geometry
 - Splines
 - Visible Surfaces
 - Illumination Models (In Progress)
-- Raytracing (TODO)
+- Raytracing (In Progress)
 
 ## How to Contribute
 Feel free to contribute on anything!<br>
