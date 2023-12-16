@@ -12,8 +12,8 @@ Different chapters are in their corresponding folders, and each chapter has one 
 - Transformations
 - Viewing Pipelines
 - Clipping
-- Collision Detection (In Progress)
-- Potential Functions (TODO)
+- Collision Detection
+- Potential Functions (In Progress)
 - 3D Geometry
 - Splines
 - Visible Surfaces
